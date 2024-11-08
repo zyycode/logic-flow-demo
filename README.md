@@ -1,5 +1,14 @@
-# Vue 3 + Vite
+# Logic Flow 技术调研 Demo【BPMN】
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## 介绍
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+本项目是 Logic Flow 的技术调研 Demo，用于展示 Logic Flow 的基本功能和使用方法。
+
+## 功能
+
+- 自定义面板 Palette
+- 自定义组件配置 Panel
+- 自定义菜单 Menu
+- 自定义组件样式
+- 组件自定义数据格式
+- 自定义数据转换方法 (node -> xml)
